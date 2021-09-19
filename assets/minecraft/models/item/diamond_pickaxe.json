@@ -1,0 +1,27 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_pickaxe"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/diamond_pickaxe" },
+		
+		{ "predicate": { "custom_model_data": 2}, "model": "fraggle/pick_skins/phantom_baseball_bat" },
+		{ "predicate": { "custom_model_data": 3}, "model": "fraggle/pick_skins/phantom_striped_diamond_pick" },
+		{ "predicate": { "custom_model_data": 4}, "model": "fraggle/pick_skins/phantom_diamond_pick" },
+		{ "predicate": { "custom_model_data": 5}, "model": "fraggle/pick_skins/phantom_wood_shank" },
+		{ "predicate": { "custom_model_data": 6}, "model": "fraggle/pick_skins/phantom_extra" },
+		{ "predicate": { "custom_model_data": 7}, "model": "fraggle/pick_skins/phantom_nano_pick_1" },
+		{ "predicate": { "custom_model_data": 8}, "model": "fraggle/pick_skins/phantom_nano_pick_2" },
+		{ "predicate": { "custom_model_data": 9}, "model": "fraggle/pick_skins/phantom_nano_pick_3" },
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle/pick_skins/phantom_nano_pick_animated" },
+		{ "predicate": { "custom_model_data": 11}, "model": "fraggle/pick_skins/phantom_rainbow_pick" },
+		{ "predicate": { "custom_model_data": 12}, "model": "fraggle/pick_skins/phantom_rainbow_pick_lightning_handle" },
+		{ "predicate": { "custom_model_data": 13}, "model": "fraggle/pick_skins/phantom_rainbow_pick_lightning_all" },
+		{ "predicate": { "custom_model_data": 14}, "model": "fraggle/pick_skins/phantom_rainbow_pick_lightning_animated" },
+		{ "predicate": { "custom_model_data": 15}, "model": "fraggle/pick_skins/phantom_zeus_pick" },
+		
+		{ "predicate": { "custom_model_data": 20}, "model": "item/diamond_pickaxe" }
+	]
+	
+}

@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+	"textures": {
+    "layer0": "item/leather_horse_armor"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/leather_horse_armor" },
+		
+		{ "predicate": { "custom_model_data": 1}, "model": "item/leather_horse_armor" },
+		
+		{ "predicate": { "custom_model_data": 100}, "model": "fraggle/hat/white_face_mask" },		
+		{ "predicate": { "custom_model_data": 110}, "model": "fraggle/hat/fc_face_mask" },
+		
+		{ "predicate": { "custom_model_data": 120}, "model": "fraggle/hat/sombrero" },
+		
+		{ "predicate": { "custom_model_data": 2000}, "model": "item/leather_horse_armor" }
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle/small_base",
+	"textures": {
+		"layer0": "fraggle/key/voter_key"
+	}
+}

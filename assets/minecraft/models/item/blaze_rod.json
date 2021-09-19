@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/blaze_rod"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/blaze_rod" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/blaze_rod" },
+
+		{ "predicate": { "custom_model_data": 100}, "model": "fraggle/key/regular_key" },
+		{ "predicate": { "custom_model_data": 105}, "model": "fraggle/key/voter_key" },
+		{ "predicate": { "custom_model_data": 110}, "model": "fraggle/key/super_key" },
+		{ "predicate": { "custom_model_data": 115}, "model": "fraggle/key/fraggle_key" },
+		{ "predicate": { "custom_model_data": 120}, "model": "fraggle/key/prestige_key" },
+		{ "predicate": { "custom_model_data": 125}, "model": "fraggle/key/mystery_key" },
+		{ "predicate": { "custom_model_data": 130}, "model": "fraggle/key/gracious_key" },
+		
+		{ "predicate": { "custom_model_data": 2000}, "model": "item/blaze_rod" }
+	]
+}

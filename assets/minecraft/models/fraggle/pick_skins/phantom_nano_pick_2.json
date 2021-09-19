@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "fraggle/pick_skins/phantom_nano_pick_2"
+    }
+}

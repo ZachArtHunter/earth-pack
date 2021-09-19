@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/beef"
+    },
+	"overrides": [	
+		{ "predicate": { "custom_model_data": 1}, "model": "item/beef" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/beef" },
+	
+		{ "predicate": { "custom_model_data": 633}, "model": "fraggle/bees/bee" },
+		{ "predicate": { "custom_model_data": 634}, "model": "fraggle/bees/bee_angry" },
+		{ "predicate": { "custom_model_data": 635}, "model": "fraggle/bees/bee_nectar" },
+		{ "predicate": { "custom_model_data": 636}, "model": "fraggle/bees/bee_angry_nectar" },
+		
+		{ "predicate": { "custom_model_data": 637}, "model": "fraggle/bees/bee_new" },
+		
+		{ "predicate": { "custom_model_data": 2000}, "model": "item/beef" }
+	]
+}

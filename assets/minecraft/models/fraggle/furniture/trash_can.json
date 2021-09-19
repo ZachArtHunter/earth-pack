@@ -1,0 +1,7 @@
+{
+	"credit": "Zach Hunter",
+	"parent": "minecraft:fraggle/furniture/trash_can_base",
+	"textures": {
+		"trash_can": "fraggle/furniture/trash_can"
+	}
+}

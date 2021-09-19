@@ -1,0 +1,18 @@
+{
+    "parent": "block/melon",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/melon" },
+		
+		{ "predicate": { "custom_model_data": 1}, "model": "item/melon" },
+		
+		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle/custom_blocks/8block" },
+		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle/custom_blocks/16block" },
+		{ "predicate": { "custom_model_data": 1002}, "model": "fraggle/furniture/trash_can" },
+		{ "predicate": { "custom_model_data": 1003}, "model": "fraggle/furniture/stool" },
+		{ "predicate": { "custom_model_data": 1004}, "model": "fraggle/furniture/blockmodels/camera" },
+		
+		{ "predicate": { "custom_model_data": 1269}, "model": "fraggle/furniture/trash_can" },
+		
+		{ "predicate": { "custom_model_data": 2000}, "model": "item/melon" }
+	]
+}
